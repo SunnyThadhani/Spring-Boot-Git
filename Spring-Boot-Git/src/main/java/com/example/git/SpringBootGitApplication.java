@@ -8,6 +8,8 @@ public class SpringBootGitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootGitApplication.class, args);
+		
+		System.out.println("This is Sample Text...");
 	}
 
 }
